@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="abdullahamer86" /></a> </p>
 
-- 🔭 I’m a Research Scientist at <a href="https://www.cgq.qc.ca/en/">Centre de Géomatique du Québec Inc</a> in Computer Visions & AI 
+- 🔭 I’m a Research Scientist in Computer Visions & AI 
 
 - 👨‍💻 All of my projects are available at [www.abdullahjirjees.com](www.abdullahjirjees.com)
 
 - 💬 PhD from <a href="/http://www.usm.my/">University of Science, Malaysia</a>
 
-- 📫 How to reach me **abdullah_jirjees@outlook.com**
+- 📫 How to reach me **contact@abdullahjirjees.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-amer/](https://www.linkedin.com/in/abdullah-amer/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-amer/](https://www.linkedin.com/in/abdullah-jirjees/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
