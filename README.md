@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@abdullahjirjees.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/abdullah-amer](https://www.linkedin.com/in/abdullah-jirjees/)/]
+- 📄 Know about my experiences [[https://www.linkedin.com/in/abdullah-jirjees/](https://www.linkedin.com/in/abdullah-jirjees/)/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
