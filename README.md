@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="abdullahamer86" /></a> </p>
 
-- 🔭 I’m a Research Scientist in Computer Visions & AI 
+- 🔭 I’m a Research Scientist in Computer Vision & AI 
 
 - 👨‍💻 All of my projects are available at [www.abdullahjirjees.com](www.abdullahjirjees.com)
 
