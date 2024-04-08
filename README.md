@@ -2,12 +2,12 @@
 <h3 align="center">A passionate about Computer Vision & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahjirjees&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjirjees" /> </p>
+[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCK6Q5HirVq91IvXlBM2K8eQ?color=red&label=Subscribe%20on%20YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ?sub_confirmation=1)
 
 <p align="left"> 
   <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://instagram.com/abdullah_amer86/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40abdullah_amer86-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
  <a href="https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCK6Q5HirVq91IvXlBM2K8eQ?style=social" alt="YouTube" /></a>
-
 </p>
 
 - 🔭 I’m a Research Scientist in Computer Vision & AI 
