@@ -10,6 +10,8 @@
  <a href="https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCK6Q5HirVq91IvXlBM2K8eQ?style=social" alt="YouTube" /></a>
 </p>
 
+[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCK6Q5HirVq91IvXlBM2K8eQ?color=red&label=Subscribe%20on%20YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ?sub_confirmation=1)
+
 - 🔭 I’m a Research Scientist in Computer Vision & AI 
 
 - 👨‍💻 All of my projects are available at [www.abdullahjirjees.com](www.abdullahjirjees.com)
@@ -19,7 +21,7 @@
 - 📫 How to reach me **contact@abdullahjirjees.com**
 
 - 📄 Know about my experiences [[https://www.linkedin.com/in/abdullah-jirjees/](https://www.linkedin.com/in/abdullah-jirjees/)]
-[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCK6Q5HirVq91IvXlBM2K8eQ?color=red&label=Subscribe%20on%20YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ?sub_confirmation=1)]!]
+
 
 
 <h3 align="left">Connect with me:</h3>
