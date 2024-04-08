@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://abdullahjirjees.com/">Abdullah Jirjees</a></h1>
 <h3 align="center">A passionate about Computer Vision & AI</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahjirjees&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjirjees" /> </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="abdullahamer86" /></a> 
+  <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://instagram.com/abdullah_amer86/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40abdullah_amer86-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/AbdullahJirjees" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/your_channel_id?style=social" alt="YouTube" /></a>
 </p>
 
 - 🔭 I’m a Research Scientist in Computer Vision & AI 
