@@ -6,7 +6,7 @@
 <p align="left"> 
   <a href="https://twitter.com/abdullahamer86" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahamer86?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://instagram.com/abdullah_amer86/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40abdullah_amer86-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="[[https://www.youtube.com/c/AbdullahJirjees](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ)](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ)" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/your_channel_id?style=social" alt="YouTube" /></a>
+  <a href="[[https://www.youtube.com/c/AbdullahJirjees](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ)](https://www.youtube.com/channel/UCK6Q5HirVq91IvXlBM2K8eQ)" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/AbdullahJirjees?style=social" alt="YouTube" /></a>
 </p>
 
 - 🔭 I’m a Research Scientist in Computer Vision & AI 
