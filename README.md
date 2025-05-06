@@ -18,7 +18,7 @@
 
 - 💬 PhD from <a href="/http://www.usm.my/">University of Science, Malaysia</a>
 
-- 📫 How to reach me **contact@abdullahjirjees.com**
+- 📫 How to reach me **info@abdullahjirjees.com**
 
 - 📄 Know about my experiences [[https://www.linkedin.com/in/abdullah-jirjees/](https://www.linkedin.com/in/abdullah-jirjees/)]
 
