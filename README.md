@@ -38,14 +38,6 @@ Image Processing         →  Medical imaging, remote sensing, industrial inspec
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Meeting Body Co-Pilot](https://github.com/AbdullahJirjees/Meeting-Body-Co-Pilot) | Real-time meeting AI — transcription, EI radar, Q&A assist | Python · FastAPI · Whisper · Gemini · Supabase |
-
----
-
 ## Tech Stack
 
 **AI & Machine Learning**
