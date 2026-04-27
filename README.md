@@ -21,7 +21,6 @@ I'm a Research Scientist specialising in **Computer Vision**, **AI**, and **Robo
 
 I work at the intersection of perception, intelligence, and autonomy — building systems that can see, reason, and act in the real world.
 
-- Currently building **[Meeting Body Co-Pilot](https://github.com/AbdullahJirjees/Meeting-Body-Co-Pilot)** — a private AI assistant that transcribes meetings in real time, detects toxic workplace dynamics, and answers questions from your personal knowledge base
 - Open to **research collaborations**, **AI consulting**, and **speaking engagements**
 - Always exploring the edge of what's possible with vision + language models
 
